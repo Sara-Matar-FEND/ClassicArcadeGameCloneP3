@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+.GameTitle {
+    color:gray;
+    font-family: 'Open Sans';
+    padding: 20px;
+}
+dialog
+{ 
+    
+    width: 40%;
+    border-radius: 10px;
+    border-color:white;
+    border-style:solid;
+}
+
+#winDiv{
+    text-align: center;
+    border-style:double;
+    border-color: black;
+    background-color:white;
+    
+}
+#winDiv h1
+{
+    color:brown;
+    font-family:inherit;
+    font-size: 40px;
+    
+}
+#winDiv p{
+    font-family:inherit;
+    color: black;
+}
+
+
+
+#winDiv button{
+    
+    font-size: 14px;
+    padding: 8px;
+    background-color:lightslategray;
+    color: white;
+    font-family:sans-serif;
+    border-radius: 5px;
+}
