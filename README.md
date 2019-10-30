@@ -1,11 +1,5 @@
 # Classic Arcade Game Clone Project(3)
 
-## Table of Contents
-
-- [Instructions](#instructions)
-- [Contributing](#contributing)
-
-
 
 ## Description:
 This project build with **HTML**,**CSS**,And **JS** langauge 
